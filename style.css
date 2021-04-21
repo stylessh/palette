@@ -1,0 +1,28 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+
+  outline: none;
+}
+
+#preview {
+  margin: 2em 0;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#preview h1 {
+  font-size: 4em;
+
+  transition: all 0.2s ease-in-out;
+}
+
+.jscolor {
+  width: 100%;
+  margin: 0;
+  /* border: 0; */
+}
